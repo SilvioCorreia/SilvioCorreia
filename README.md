@@ -1,7 +1,7 @@
 ### Olá, tudo bem? Eu sou o Silvio Correia
 
 - 🔭 Hoje trabalho da área de Controladoria Financeira
-- 🌱 Estudando Java Script para iniciar na área de Qualidade de Testes
+- 🌱 Estudando Java Script para iniciar na área de "QA"
 - 📫 Contate-me no email: silvioccorreia@gmail.com
 - 😄 Pronomes: ele/dele
 
