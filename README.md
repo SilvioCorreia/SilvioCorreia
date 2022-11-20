@@ -1,7 +1,6 @@
 ### Olá, tudo bem? Eu sou o Silvio Correia
 
-- 🔭 Hoje trabalho da área de Controladoria Financeira
-- 🌱 Estudando Java Script para iniciar na área de "QA"
+- 🔭 Estudando Java Script para iniciar na área de "QA"
 - 📫 Contate-me no email: silvioccorreia@gmail.com
 - 😄 Pronomes: ele/dele
 
@@ -16,4 +15,4 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
